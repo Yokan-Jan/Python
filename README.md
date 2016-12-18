@@ -1,4 +1,3 @@
 # Python
 
-#Now I'm going for Panda3D ^ ^
-	Go for it~~~~~
+Talk is cheap, grow by your code.
